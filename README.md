@@ -121,10 +121,7 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author  
-**Jitesh Santosh Shelke**  
-📌 **M.Sc. Data Analytics (Part II)**  
-🏠 **Pillai College of Arts, Commerce & Science (Autonomous), New Panvel**  
+
 
 ---
 
